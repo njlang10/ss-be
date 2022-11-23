@@ -1,0 +1,19 @@
+{
+  "name": "templateforv2-static",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@types/express": "^4.17.17",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "sequelize": "^6.32.1",
+    "sqlite3": "^5.1.6"
+  }
+}
